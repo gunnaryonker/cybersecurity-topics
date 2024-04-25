@@ -1,0 +1,2 @@
+CYBER 759
+This course covers emerging topics in cybersecurity. The topics could include new developments in general areas like privacy, cryptography, and cybersecurity law or in recently developed areas like cloud security, wireless security, Internet of things security, blockchain and anonymous computing, and hardware security. It will cover both technological developments and their impacts on information and infrastructure security across organizations. Repeatable.
