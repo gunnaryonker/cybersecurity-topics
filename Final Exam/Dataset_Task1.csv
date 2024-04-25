@@ -1,0 +1,1001 @@
+UID,Gender,Marital Status,Education,Response
+35023900,F,Divorced,High school diploma or equivalent,No
+35023901,F,Divorced,"Some college, no degree",Yes
+35023902,M,Married,High school diploma or equivalent,No
+35023903,F,Divorced,Bachelor’s degree,No
+35023904,M,Single,Doctoral degree,No
+35023905,F,Married,Master’s degree,Yes
+35023906,F,Separated,Bachelor’s degree,Yes
+35023907,M,Married,Associate degree,No
+35023908,M,Married,Associate degree,No
+35023909,M,Divorced,Bachelor’s degree,No
+35023910,F,Divorced,Doctoral degree,No
+35023911,M,Divorced,Less than high school,No
+35023912,M,Single,Bachelor’s degree,No
+35023913,F,Divorced,Associate degree,No
+35023914,M,Married,"Some college, no degree",No
+35023915,M,Married,Associate degree,No
+35023916,M,Divorced,Bachelor’s degree,No
+35023917,F,Married,Less than high school,No
+35023918,F,Single,Doctoral degree,No
+35023919,M,Married,Associate degree,No
+35023920,F,Divorced,Less than high school,No
+35023921,M,Married,Bachelor’s degree,No
+35023922,M,Married,High school diploma or equivalent,No
+35023923,M,Divorced,Doctoral degree,No
+35023924,F,Married,Associate degree,No
+35023925,F,Single,Bachelor’s degree,Yes
+35023926,F,Divorced,Master’s degree,No
+35023927,F,Single,Master’s degree,No
+35023928,M,Divorced,Associate degree,No
+35023929,M,Widowed,Doctoral degree,No
+35023930,F,Married,Less than high school,No
+35023931,M,Married,Master’s degree,No
+35023932,M,Divorced,Master’s degree,No
+35023933,F,Separated,Bachelor’s degree,Yes
+35023934,F,Divorced,Master’s degree,No
+35023935,F,Married,Less than high school,No
+35023936,F,Married,Master’s degree,No
+35023937,M,Widowed,Master’s degree,No
+35023938,M,Divorced,Master’s degree,No
+35023939,M,Divorced,"Some college, no degree",No
+35023940,M,Married,Doctoral degree,No
+35023941,M,Single,High school diploma or equivalent,No
+35023942,F,Divorced,Less than high school,No
+35023943,M,Married,"Some college, no degree",No
+35023944,M,Married,Associate degree,No
+35023945,M,Single,Master’s degree,No
+35023946,F,Separated,Associate degree,No
+35023947,F,Divorced,Associate degree,No
+35023948,F,Married,Associate degree,Yes
+35023949,M,Married,Bachelor’s degree,No
+35023950,F,Single,High school diploma or equivalent,No
+35023951,F,Married,"Some college, no degree",No
+35023952,F,Married,High school diploma or equivalent,No
+35023953,M,Divorced,Associate degree,No
+35023954,F,Separated,High school diploma or equivalent,No
+35023955,M,Divorced,High school diploma or equivalent,No
+35023956,F,Separated,"Some college, no degree",No
+35023957,M,Widowed,Less than high school,No
+35023958,M,Divorced,Doctoral degree,Yes
+35023959,M,Married,Master’s degree,No
+35023960,F,Married,Doctoral degree,No
+35023961,F,Divorced,High school diploma or equivalent,No
+35023962,F,Single,High school diploma or equivalent,Yes
+35023963,M,Separated,Bachelor’s degree,Yes
+35023964,M,Married,High school diploma or equivalent,Yes
+35023965,M,Separated,Less than high school,No
+35023966,F,Married,Bachelor’s degree,No
+35023967,M,Single,Bachelor’s degree,No
+35023968,M,Married,Bachelor’s degree,Yes
+35023969,F,Married,"Some college, no degree",No
+35023970,F,Divorced,Bachelor’s degree,No
+35023971,F,Single,Associate degree,No
+35023972,F,Married,Master’s degree,No
+35023973,F,Divorced,"Some college, no degree",No
+35023974,F,Married,High school diploma or equivalent,No
+35023975,M,Married,Less than high school,No
+35023976,F,Married,Master’s degree,No
+35023977,F,Single,Associate degree,No
+35023978,M,Divorced,Bachelor’s degree,No
+35023979,F,Widowed,Master’s degree,No
+35023980,F,Married,Less than high school,Yes
+35023981,F,Widowed,Master’s degree,Yes
+35023982,F,Separated,Bachelor’s degree,No
+35023983,F,Separated,Bachelor’s degree,No
+35023984,M,Single,Less than high school,No
+35023985,F,Single,High school diploma or equivalent,No
+35023986,M,Divorced,High school diploma or equivalent,Yes
+35023987,M,Married,Doctoral degree,Yes
+35023988,M,Divorced,Bachelor’s degree,Yes
+35023989,F,Single,Associate degree,Yes
+35023990,F,Single,Associate degree,No
+35023991,F,Married,Less than high school,Yes
+35023992,M,Divorced,Master’s degree,No
+35023993,M,Married,Master’s degree,No
+35023994,M,Divorced,"Some college, no degree",No
+35023995,M,Divorced,Associate degree,Yes
+35023996,M,Married,Master’s degree,No
+35023997,M,Single,Associate degree,Yes
+35023998,M,Divorced,Master’s degree,No
+35023999,F,Divorced,Master’s degree,No
+35024000,F,Divorced,Doctoral degree,No
+35024001,M,Single,Less than high school,No
+35024002,M,Married,Master’s degree,No
+35024003,F,Single,Master’s degree,No
+35024004,F,Married,Doctoral degree,No
+35024005,M,Separated,"Some college, no degree",No
+35024006,M,Married,Bachelor’s degree,No
+35024007,F,Divorced,Doctoral degree,Yes
+35024008,F,Divorced,Less than high school,No
+35024009,F,Single,Master’s degree,No
+35024010,F,Divorced,Doctoral degree,No
+35024011,M,Divorced,Less than high school,No
+35024012,M,Married,Master’s degree,No
+35024013,M,Married,Less than high school,No
+35024014,F,Single,"Some college, no degree",Yes
+35024015,F,Single,"Some college, no degree",No
+35024016,F,Divorced,Master’s degree,No
+35024017,M,Separated,Doctoral degree,No
+35024018,F,Married,Master’s degree,No
+35024019,F,Married,Less than high school,Yes
+35024020,M,Divorced,"Some college, no degree",No
+35024021,F,Married,Master’s degree,Yes
+35024022,M,Married,"Some college, no degree",No
+35024023,M,Married,Master’s degree,No
+35024024,F,Single,Bachelor’s degree,Yes
+35024025,F,Married,Doctoral degree,No
+35024026,M,Divorced,"Some college, no degree",No
+35024027,F,Married,Bachelor’s degree,No
+35024028,F,Married,Doctoral degree,Yes
+35024029,M,Widowed,Master’s degree,No
+35024030,M,Married,High school diploma or equivalent,No
+35024031,F,Divorced,Bachelor’s degree,Yes
+35024032,M,Married,Master’s degree,No
+35024033,F,Married,Doctoral degree,No
+35024034,M,Divorced,"Some college, no degree",No
+35024035,F,Divorced,Bachelor’s degree,No
+35024036,F,Divorced,"Some college, no degree",No
+35024037,F,Married,Master’s degree,No
+35024038,F,Single,Associate degree,Yes
+35024039,F,Married,Bachelor’s degree,No
+35024040,M,Separated,High school diploma or equivalent,No
+35024041,F,Single,High school diploma or equivalent,No
+35024042,M,Married,Less than high school,No
+35024043,M,Single,Master’s degree,No
+35024044,M,Separated,"Some college, no degree",No
+35024045,F,Divorced,Master’s degree,No
+35024046,F,Single,High school diploma or equivalent,No
+35024047,M,Divorced,High school diploma or equivalent,No
+35024048,F,Married,Bachelor’s degree,Yes
+35024049,M,Married,"Some college, no degree",No
+35024050,F,Single,Associate degree,No
+35024051,F,Married,High school diploma or equivalent,Yes
+35024052,M,Widowed,Associate degree,No
+35024053,F,Married,Less than high school,No
+35024054,F,Divorced,Less than high school,No
+35024055,F,Married,Bachelor’s degree,No
+35024056,F,Divorced,Associate degree,Yes
+35024057,M,Married,Doctoral degree,No
+35024058,F,Married,Master’s degree,Yes
+35024059,F,Single,Less than high school,No
+35024060,M,Married,Bachelor’s degree,No
+35024061,F,Divorced,High school diploma or equivalent,No
+35024062,M,Single,Bachelor’s degree,No
+35024063,F,Single,Less than high school,No
+35024064,F,Married,Doctoral degree,Yes
+35024065,M,Married,High school diploma or equivalent,No
+35024066,F,Single,Master’s degree,Yes
+35024067,M,Married,"Some college, no degree",No
+35024068,F,Married,High school diploma or equivalent,Yes
+35024069,F,Single,"Some college, no degree",No
+35024070,F,Separated,Doctoral degree,No
+35024071,F,Single,High school diploma or equivalent,No
+35024072,M,Widowed,Associate degree,No
+35024073,M,Single,Associate degree,No
+35024074,M,Divorced,Bachelor’s degree,No
+35024075,M,Widowed,Master’s degree,No
+35024076,F,Married,Associate degree,No
+35024077,F,Married,High school diploma or equivalent,No
+35024078,M,Married,"Some college, no degree",No
+35024079,F,Single,"Some college, no degree",No
+35024080,M,Single,"Some college, no degree",No
+35024081,F,Divorced,Master’s degree,No
+35024082,F,Separated,Less than high school,Yes
+35024083,F,Married,Less than high school,No
+35024084,M,Single,High school diploma or equivalent,No
+35024085,F,Divorced,Associate degree,No
+35024086,M,Widowed,High school diploma or equivalent,No
+35024087,M,Single,High school diploma or equivalent,No
+35024088,M,Married,Doctoral degree,No
+35024089,F,Married,"Some college, no degree",Yes
+35024090,M,Single,Doctoral degree,No
+35024091,M,Divorced,High school diploma or equivalent,No
+35024092,F,Single,Associate degree,No
+35024093,M,Single,"Some college, no degree",No
+35024094,F,Divorced,Master’s degree,Yes
+35024095,M,Divorced,Bachelor’s degree,No
+35024096,F,Divorced,Bachelor’s degree,Yes
+35024097,F,Single,Doctoral degree,No
+35024098,F,Divorced,Bachelor’s degree,No
+35024099,M,Divorced,"Some college, no degree",No
+35024100,M,Married,Doctoral degree,No
+35024101,F,Single,Associate degree,Yes
+35024102,F,Married,Master’s degree,No
+35024103,F,Divorced,Less than high school,No
+35024104,F,Married,Associate degree,No
+35024105,F,Married,Bachelor’s degree,No
+35024106,M,Single,High school diploma or equivalent,No
+35024107,F,Divorced,Bachelor’s degree,No
+35024108,F,Divorced,Master’s degree,No
+35024109,M,Married,"Some college, no degree",No
+35024110,F,Separated,Master’s degree,No
+35024111,M,Divorced,Associate degree,No
+35024112,M,Single,Master’s degree,No
+35024113,F,Single,Doctoral degree,No
+35024114,M,Widowed,High school diploma or equivalent,No
+35024115,M,Married,"Some college, no degree",No
+35024116,M,Married,Bachelor’s degree,No
+35024117,M,Married,Associate degree,No
+35024118,F,Divorced,Less than high school,No
+35024119,M,Separated,"Some college, no degree",No
+35024120,M,Divorced,"Some college, no degree",No
+35024121,F,Married,High school diploma or equivalent,No
+35024122,F,Divorced,High school diploma or equivalent,No
+35024123,F,Married,Master’s degree,No
+35024124,F,Single,Doctoral degree,No
+35024125,F,Married,"Some college, no degree",No
+35024126,M,Married,Bachelor’s degree,No
+35024127,F,Married,Associate degree,No
+35024128,F,Single,Doctoral degree,Yes
+35024129,M,Divorced,"Some college, no degree",No
+35024130,F,Separated,Associate degree,Yes
+35024131,M,Married,Less than high school,No
+35024132,M,Single,Less than high school,No
+35024133,F,Married,Bachelor’s degree,No
+35024134,F,Single,Bachelor’s degree,No
+35024135,M,Married,Master’s degree,No
+35024136,F,Single,"Some college, no degree",No
+35024137,M,Married,High school diploma or equivalent,No
+35024138,F,Married,Doctoral degree,Yes
+35024139,M,Married,Less than high school,No
+35024140,M,Single,Doctoral degree,No
+35024141,M,Divorced,"Some college, no degree",No
+35024142,M,Married,"Some college, no degree",No
+35024143,F,Single,Master’s degree,No
+35024144,M,Single,Master’s degree,No
+35024145,F,Divorced,High school diploma or equivalent,No
+35024146,F,Divorced,"Some college, no degree",No
+35024147,M,Single,"Some college, no degree",No
+35024148,M,Married,Associate degree,No
+35024149,F,Single,Master’s degree,No
+35024150,M,Married,Bachelor’s degree,No
+35024151,F,Divorced,Less than high school,No
+35024152,M,Divorced,Master’s degree,No
+35024153,F,Divorced,High school diploma or equivalent,Yes
+35024154,F,Single,Master’s degree,Yes
+35024155,F,Single,High school diploma or equivalent,No
+35024156,M,Divorced,"Some college, no degree",No
+35024157,M,Divorced,Master’s degree,No
+35024158,M,Single,Associate degree,No
+35024159,M,Married,Bachelor’s degree,No
+35024160,F,Divorced,Doctoral degree,No
+35024161,M,Married,"Some college, no degree",No
+35024162,F,Divorced,"Some college, no degree",No
+35024163,F,Single,High school diploma or equivalent,No
+35024164,F,Divorced,Bachelor’s degree,Yes
+35024165,F,Divorced,Less than high school,No
+35024166,F,Married,High school diploma or equivalent,No
+35024167,F,Divorced,Less than high school,No
+35024168,F,Single,Associate degree,No
+35024169,F,Married,Less than high school,No
+35024170,F,Married,Doctoral degree,No
+35024171,F,Married,High school diploma or equivalent,Yes
+35024172,M,Single,"Some college, no degree",No
+35024173,F,Married,Bachelor’s degree,Yes
+35024174,M,Divorced,"Some college, no degree",No
+35024175,M,Single,High school diploma or equivalent,No
+35024176,M,Married,Associate degree,No
+35024177,F,Married,Doctoral degree,No
+35024178,F,Married,Less than high school,No
+35024179,M,Single,Associate degree,No
+35024180,M,Single,Master’s degree,No
+35024181,M,Divorced,Bachelor’s degree,No
+35024182,F,Single,Doctoral degree,Yes
+35024183,F,Married,Less than high school,No
+35024184,M,Married,Associate degree,No
+35024185,M,Divorced,Master’s degree,No
+35024186,F,Widowed,High school diploma or equivalent,Yes
+35024187,M,Divorced,Associate degree,No
+35024188,M,Divorced,Bachelor’s degree,No
+35024189,F,Single,Doctoral degree,Yes
+35024190,M,Married,Associate degree,No
+35024191,M,Married,Bachelor’s degree,No
+35024192,M,Divorced,Bachelor’s degree,No
+35024193,F,Single,"Some college, no degree",Yes
+35024194,F,Married,High school diploma or equivalent,No
+35024195,M,Divorced,Less than high school,No
+35024196,F,Married,"Some college, no degree",Yes
+35024197,F,Married,Associate degree,No
+35024198,M,Single,Associate degree,No
+35024199,F,Married,"Some college, no degree",No
+35024200,M,Divorced,Associate degree,No
+35024201,M,Married,Bachelor’s degree,No
+35024202,F,Single,Bachelor’s degree,Yes
+35024203,F,Married,"Some college, no degree",No
+35024204,F,Divorced,Doctoral degree,Yes
+35024205,M,Separated,"Some college, no degree",No
+35024206,M,Married,"Some college, no degree",No
+35024207,M,Divorced,High school diploma or equivalent,No
+35024208,M,Divorced,Master’s degree,No
+35024209,M,Married,Bachelor’s degree,No
+35024210,M,Married,High school diploma or equivalent,No
+35024211,F,Married,Associate degree,Yes
+35024212,F,Married,Less than high school,Yes
+35024213,F,Married,Associate degree,No
+35024214,F,Divorced,Doctoral degree,Yes
+35024215,M,Single,High school diploma or equivalent,No
+35024216,M,Married,Associate degree,No
+35024217,M,Married,Bachelor’s degree,No
+35024218,M,Divorced,Associate degree,No
+35024219,F,Divorced,Master’s degree,Yes
+35024220,M,Separated,Less than high school,No
+35024221,M,Married,Less than high school,No
+35024222,M,Divorced,Doctoral degree,No
+35024223,F,Widowed,Associate degree,No
+35024224,F,Divorced,Master’s degree,No
+35024225,F,Married,Less than high school,No
+35024226,F,Single,High school diploma or equivalent,Yes
+35024227,F,Single,High school diploma or equivalent,No
+35024228,F,Married,Less than high school,No
+35024229,M,Married,Associate degree,No
+35024230,F,Single,"Some college, no degree",No
+35024231,F,Divorced,Bachelor’s degree,No
+35024232,F,Married,Master’s degree,No
+35024233,M,Divorced,Less than high school,No
+35024234,F,Married,"Some college, no degree",No
+35024235,M,Married,Less than high school,No
+35024236,F,Single,Master’s degree,Yes
+35024237,M,Separated,Master’s degree,No
+35024238,F,Married,Less than high school,No
+35024239,F,Divorced,Doctoral degree,Yes
+35024240,F,Married,Bachelor’s degree,Yes
+35024241,M,Divorced,High school diploma or equivalent,No
+35024242,F,Married,Master’s degree,No
+35024243,M,Divorced,Bachelor’s degree,No
+35024244,F,Separated,Doctoral degree,Yes
+35024245,M,Married,Doctoral degree,No
+35024246,M,Married,Less than high school,No
+35024247,M,Married,Doctoral degree,No
+35024248,F,Single,Bachelor’s degree,No
+35024249,M,Married,High school diploma or equivalent,No
+35024250,M,Married,Bachelor’s degree,No
+35024251,F,Married,Bachelor’s degree,No
+35024252,M,Married,Master’s degree,No
+35024253,F,Single,Doctoral degree,No
+35024254,F,Divorced,Less than high school,No
+35024255,M,Married,"Some college, no degree",No
+35024256,F,Divorced,"Some college, no degree",Yes
+35024257,M,Single,Bachelor’s degree,No
+35024258,M,Divorced,Doctoral degree,No
+35024259,M,Married,Associate degree,No
+35024260,F,Married,Bachelor’s degree,No
+35024261,M,Single,Master’s degree,No
+35024262,F,Separated,Master’s degree,Yes
+35024263,F,Married,Master’s degree,No
+35024264,M,Separated,High school diploma or equivalent,No
+35024265,M,Married,Associate degree,No
+35024266,M,Married,"Some college, no degree",No
+35024267,F,Single,High school diploma or equivalent,No
+35024268,M,Married,Associate degree,No
+35024269,F,Divorced,Master’s degree,No
+35024270,M,Divorced,Less than high school,No
+35024271,M,Single,Less than high school,No
+35024272,M,Separated,High school diploma or equivalent,No
+35024273,M,Married,Less than high school,No
+35024274,F,Divorced,"Some college, no degree",No
+35024275,M,Divorced,High school diploma or equivalent,No
+35024276,F,Divorced,"Some college, no degree",No
+35024277,F,Married,Doctoral degree,Yes
+35024278,M,Divorced,Doctoral degree,No
+35024279,F,Separated,Master’s degree,No
+35024280,F,Married,Associate degree,Yes
+35024281,M,Single,Master’s degree,No
+35024282,M,Married,Associate degree,No
+35024283,M,Married,Associate degree,No
+35024284,M,Divorced,High school diploma or equivalent,No
+35024285,M,Married,"Some college, no degree",No
+35024286,F,Married,Doctoral degree,No
+35024287,F,Divorced,Doctoral degree,Yes
+35024288,M,Divorced,Less than high school,No
+35024289,F,Single,Bachelor’s degree,No
+35024290,F,Married,Less than high school,No
+35024291,F,Divorced,Doctoral degree,No
+35024292,M,Divorced,Doctoral degree,No
+35024293,M,Single,Bachelor’s degree,No
+35024294,F,Widowed,Doctoral degree,Yes
+35024295,F,Married,Master’s degree,No
+35024296,F,Divorced,Bachelor’s degree,No
+35024297,F,Divorced,Master’s degree,Yes
+35024298,M,Single,"Some college, no degree",No
+35024299,M,Single,Doctoral degree,No
+35024300,M,Married,"Some college, no degree",No
+35024301,M,Divorced,Associate degree,No
+35024302,M,Married,"Some college, no degree",No
+35024303,M,Divorced,Associate degree,No
+35024304,F,Single,Bachelor’s degree,Yes
+35024305,M,Single,"Some college, no degree",No
+35024306,F,Married,Doctoral degree,No
+35024307,F,Married,High school diploma or equivalent,No
+35024308,M,Married,Less than high school,No
+35024309,M,Separated,High school diploma or equivalent,No
+35024310,M,Married,High school diploma or equivalent,No
+35024311,M,Separated,Doctoral degree,No
+35024312,M,Single,High school diploma or equivalent,No
+35024313,F,Single,High school diploma or equivalent,No
+35024314,F,Divorced,Associate degree,No
+35024315,M,Divorced,Bachelor’s degree,No
+35024316,F,Married,Doctoral degree,Yes
+35024317,M,Married,High school diploma or equivalent,No
+35024318,F,Single,"Some college, no degree",No
+35024319,M,Married,Doctoral degree,No
+35024320,M,Single,"Some college, no degree",No
+35024321,M,Divorced,High school diploma or equivalent,No
+35024322,M,Divorced,Associate degree,No
+35024323,F,Married,"Some college, no degree",Yes
+35024324,M,Divorced,Bachelor’s degree,No
+35024325,F,Single,Less than high school,No
+35024326,F,Married,Associate degree,No
+35024327,M,Separated,Doctoral degree,No
+35024328,M,Divorced,"Some college, no degree",No
+35024329,M,Married,Bachelor’s degree,No
+35024330,F,Married,Associate degree,No
+35024331,F,Single,Doctoral degree,Yes
+35024332,M,Married,"Some college, no degree",No
+35024333,F,Widowed,Less than high school,Yes
+35024334,M,Divorced,Master’s degree,No
+35024335,M,Married,Associate degree,No
+35024336,M,Married,High school diploma or equivalent,No
+35024337,M,Married,High school diploma or equivalent,No
+35024338,M,Married,"Some college, no degree",No
+35024339,M,Separated,Doctoral degree,No
+35024340,F,Married,Bachelor’s degree,No
+35024341,F,Single,Doctoral degree,Yes
+35024342,M,Divorced,"Some college, no degree",No
+35024343,M,Divorced,"Some college, no degree",No
+35024344,M,Married,Master’s degree,No
+35024345,M,Divorced,High school diploma or equivalent,No
+35024346,M,Married,Master’s degree,No
+35024347,F,Separated,Master’s degree,Yes
+35024348,M,Married,High school diploma or equivalent,No
+35024349,F,Married,Bachelor’s degree,No
+35024350,F,Divorced,Associate degree,No
+35024351,F,Married,Doctoral degree,Yes
+35024352,M,Single,Master’s degree,No
+35024353,M,Single,"Some college, no degree",No
+35024354,F,Married,Associate degree,No
+35024355,F,Single,Doctoral degree,Yes
+35024356,F,Divorced,Less than high school,No
+35024357,F,Separated,"Some college, no degree",No
+35024358,F,Single,"Some college, no degree",No
+35024359,F,Married,Less than high school,No
+35024360,M,Married,Master’s degree,No
+35024361,M,Separated,Less than high school,No
+35024362,M,Married,Bachelor’s degree,No
+35024363,F,Married,High school diploma or equivalent,No
+35024364,M,Married,Master’s degree,No
+35024365,F,Married,Bachelor’s degree,No
+35024366,M,Single,Associate degree,No
+35024367,M,Married,Doctoral degree,No
+35024368,M,Married,Bachelor’s degree,No
+35024369,M,Single,Less than high school,No
+35024370,M,Married,Bachelor’s degree,No
+35024371,F,Divorced,High school diploma or equivalent,No
+35024372,M,Separated,Master’s degree,No
+35024373,M,Married,Bachelor’s degree,No
+35024374,F,Married,"Some college, no degree",No
+35024375,F,Divorced,High school diploma or equivalent,No
+35024376,M,Married,Doctoral degree,No
+35024377,F,Single,Doctoral degree,Yes
+35024378,M,Married,"Some college, no degree",No
+35024379,F,Divorced,Master’s degree,Yes
+35024380,F,Separated,Associate degree,No
+35024381,M,Single,Doctoral degree,No
+35024382,M,Divorced,"Some college, no degree",No
+35024383,F,Single,High school diploma or equivalent,Yes
+35024384,F,Single,Bachelor’s degree,No
+35024385,M,Divorced,Doctoral degree,No
+35024386,M,Divorced,Master’s degree,No
+35024387,F,Divorced,Doctoral degree,No
+35024388,M,Married,High school diploma or equivalent,No
+35024389,M,Single,"Some college, no degree",No
+35024390,F,Married,Master’s degree,Yes
+35024391,F,Divorced,Less than high school,No
+35024392,M,Married,Less than high school,No
+35024393,F,Married,Less than high school,Yes
+35024394,F,Married,Less than high school,Yes
+35024395,F,Divorced,Master’s degree,Yes
+35024396,F,Married,High school diploma or equivalent,Yes
+35024397,F,Single,Master’s degree,No
+35024398,F,Widowed,Less than high school,No
+35024399,F,Single,Bachelor’s degree,No
+35024400,M,Divorced,"Some college, no degree",No
+35024401,M,Single,Associate degree,No
+35024402,M,Single,Doctoral degree,No
+35024403,F,Separated,High school diploma or equivalent,Yes
+35024404,F,Divorced,High school diploma or equivalent,No
+35024405,M,Married,"Some college, no degree",No
+35024406,F,Single,"Some college, no degree",No
+35024407,F,Divorced,High school diploma or equivalent,No
+35024408,M,Divorced,Bachelor’s degree,No
+35024409,F,Separated,"Some college, no degree",No
+35024410,M,Divorced,Doctoral degree,No
+35024411,M,Married,Master’s degree,No
+35024412,M,Divorced,High school diploma or equivalent,No
+35024413,F,Married,Bachelor’s degree,No
+35024414,M,Divorced,Doctoral degree,No
+35024415,M,Divorced,"Some college, no degree",No
+35024416,M,Separated,Master’s degree,No
+35024417,M,Married,Doctoral degree,No
+35024418,F,Single,"Some college, no degree",Yes
+35024419,F,Married,Less than high school,Yes
+35024420,F,Divorced,"Some college, no degree",No
+35024421,F,Married,Associate degree,No
+35024422,F,Divorced,Doctoral degree,No
+35024423,F,Married,Master’s degree,Yes
+35024424,F,Divorced,Less than high school,No
+35024425,F,Divorced,"Some college, no degree",No
+35024426,F,Married,Doctoral degree,Yes
+35024427,M,Divorced,Associate degree,No
+35024428,F,Married,Doctoral degree,No
+35024429,F,Married,Bachelor’s degree,Yes
+35024430,M,Single,Doctoral degree,No
+35024431,M,Divorced,Doctoral degree,No
+35024432,M,Married,Doctoral degree,No
+35024433,F,Single,Associate degree,No
+35024434,M,Divorced,High school diploma or equivalent,No
+35024435,F,Single,Bachelor’s degree,Yes
+35024436,F,Divorced,Doctoral degree,No
+35024437,M,Married,Doctoral degree,No
+35024438,M,Married,High school diploma or equivalent,No
+35024439,M,Single,Master’s degree,No
+35024440,M,Married,Less than high school,No
+35024441,F,Married,"Some college, no degree",Yes
+35024442,F,Widowed,Bachelor’s degree,No
+35024443,F,Married,Associate degree,Yes
+35024444,M,Married,"Some college, no degree",No
+35024445,F,Divorced,Master’s degree,No
+35024446,F,Single,Associate degree,No
+35024447,M,Divorced,Doctoral degree,No
+35024448,F,Married,High school diploma or equivalent,Yes
+35024449,M,Single,Doctoral degree,No
+35024450,F,Married,Master’s degree,No
+35024451,F,Married,High school diploma or equivalent,No
+35024452,M,Single,Bachelor’s degree,No
+35024453,F,Married,Associate degree,No
+35024454,M,Single,Bachelor’s degree,No
+35024455,F,Married,Associate degree,Yes
+35024456,M,Separated,Associate degree,No
+35024457,F,Separated,Master’s degree,No
+35024458,F,Single,Less than high school,Yes
+35024459,F,Divorced,"Some college, no degree",Yes
+35024460,M,Separated,Associate degree,No
+35024461,M,Married,Associate degree,No
+35024462,M,Married,Associate degree,No
+35024463,F,Divorced,"Some college, no degree",Yes
+35024464,F,Divorced,Less than high school,No
+35024465,M,Married,"Some college, no degree",No
+35024466,F,Married,"Some college, no degree",No
+35024467,M,Single,"Some college, no degree",No
+35024468,F,Widowed,"Some college, no degree",Yes
+35024469,F,Married,Associate degree,No
+35024470,M,Separated,Bachelor’s degree,No
+35024471,F,Married,"Some college, no degree",No
+35024472,M,Married,Master’s degree,No
+35024473,M,Married,Associate degree,No
+35024474,F,Single,Bachelor’s degree,No
+35024475,M,Single,"Some college, no degree",No
+35024476,F,Married,Bachelor’s degree,No
+35024477,M,Divorced,Doctoral degree,No
+35024478,F,Married,"Some college, no degree",Yes
+35024479,F,Married,"Some college, no degree",No
+35024480,F,Married,High school diploma or equivalent,No
+35024481,F,Single,Bachelor’s degree,No
+35024482,F,Married,Doctoral degree,Yes
+35024483,M,Married,Bachelor’s degree,No
+35024484,M,Widowed,Less than high school,No
+35024485,F,Married,Master’s degree,No
+35024486,F,Married,Master’s degree,Yes
+35024487,M,Married,Associate degree,No
+35024488,F,Single,Master’s degree,No
+35024489,M,Divorced,Less than high school,No
+35024490,F,Divorced,Master’s degree,Yes
+35024491,M,Separated,"Some college, no degree",No
+35024492,F,Divorced,Master’s degree,No
+35024493,M,Separated,"Some college, no degree",No
+35024494,F,Divorced,Associate degree,No
+35024495,F,Married,Master’s degree,Yes
+35024496,M,Separated,Associate degree,No
+35024497,M,Divorced,Master’s degree,No
+35024498,F,Single,Associate degree,No
+35024499,F,Married,Associate degree,No
+35024500,F,Single,High school diploma or equivalent,No
+35024501,F,Single,Less than high school,No
+35024502,F,Single,Master’s degree,No
+35024503,F,Single,"Some college, no degree",No
+35024504,F,Married,Master’s degree,No
+35024505,M,Married,Less than high school,No
+35024506,M,Married,Less than high school,No
+35024507,F,Divorced,Bachelor’s degree,Yes
+35024508,M,Divorced,Associate degree,No
+35024509,M,Divorced,Doctoral degree,No
+35024510,F,Separated,Master’s degree,No
+35024511,F,Married,Bachelor’s degree,No
+35024512,F,Married,Associate degree,No
+35024513,F,Single,"Some college, no degree",No
+35024514,F,Separated,Master’s degree,No
+35024515,F,Married,High school diploma or equivalent,No
+35024516,F,Divorced,Master’s degree,Yes
+35024517,F,Divorced,High school diploma or equivalent,No
+35024518,M,Divorced,Associate degree,No
+35024519,F,Married,"Some college, no degree",No
+35024520,F,Divorced,Master’s degree,No
+35024521,M,Married,Less than high school,No
+35024522,M,Separated,Bachelor’s degree,No
+35024523,M,Single,Doctoral degree,No
+35024524,M,Married,Less than high school,No
+35024525,F,Separated,Doctoral degree,No
+35024526,M,Single,"Some college, no degree",No
+35024527,M,Separated,Bachelor’s degree,No
+35024528,M,Single,"Some college, no degree",No
+35024529,M,Divorced,High school diploma or equivalent,No
+35024530,F,Divorced,Doctoral degree,Yes
+35024531,M,Separated,Doctoral degree,No
+35024532,F,Divorced,"Some college, no degree",No
+35024533,M,Single,Less than high school,No
+35024534,M,Married,Bachelor’s degree,No
+35024535,F,Married,Bachelor’s degree,No
+35024536,M,Married,High school diploma or equivalent,No
+35024537,F,Divorced,Master’s degree,Yes
+35024538,M,Divorced,Doctoral degree,No
+35024539,M,Separated,High school diploma or equivalent,No
+35024540,F,Married,High school diploma or equivalent,No
+35024541,M,Single,Associate degree,No
+35024542,M,Married,Associate degree,No
+35024543,M,Divorced,Master’s degree,No
+35024544,F,Married,High school diploma or equivalent,No
+35024545,F,Single,Bachelor’s degree,No
+35024546,F,Divorced,Associate degree,No
+35024547,M,Married,Doctoral degree,No
+35024548,M,Married,Less than high school,No
+35024549,M,Divorced,High school diploma or equivalent,No
+35024550,F,Married,Doctoral degree,Yes
+35024551,F,Divorced,Master’s degree,No
+35024552,F,Single,Bachelor’s degree,No
+35024553,M,Single,Less than high school,No
+35024554,M,Single,"Some college, no degree",No
+35024555,F,Married,Bachelor’s degree,No
+35024556,F,Married,Master’s degree,Yes
+35024557,M,Single,Master’s degree,No
+35024558,M,Divorced,Associate degree,No
+35024559,F,Divorced,Less than high school,No
+35024560,M,Married,Less than high school,No
+35024561,F,Divorced,"Some college, no degree",Yes
+35024562,F,Married,Doctoral degree,Yes
+35024563,F,Single,High school diploma or equivalent,No
+35024564,F,Married,Doctoral degree,Yes
+35024565,F,Single,Doctoral degree,No
+35024566,M,Single,Less than high school,No
+35024567,M,Divorced,Bachelor’s degree,No
+35024568,F,Married,Doctoral degree,No
+35024569,F,Divorced,"Some college, no degree",No
+35024570,F,Married,"Some college, no degree",No
+35024571,F,Married,"Some college, no degree",No
+35024572,F,Single,Less than high school,No
+35024573,M,Divorced,"Some college, no degree",No
+35024574,F,Married,Doctoral degree,No
+35024575,F,Divorced,Less than high school,No
+35024576,F,Divorced,Master’s degree,Yes
+35024577,F,Married,Master’s degree,Yes
+35024578,M,Married,Master’s degree,No
+35024579,M,Single,Master’s degree,No
+35024580,F,Divorced,Associate degree,Yes
+35024581,M,Divorced,Associate degree,No
+35024582,M,Divorced,High school diploma or equivalent,No
+35024583,F,Married,Bachelor’s degree,No
+35024584,M,Married,Bachelor’s degree,No
+35024585,F,Divorced,Associate degree,No
+35024586,F,Divorced,Doctoral degree,No
+35024587,F,Divorced,"Some college, no degree",No
+35024588,F,Married,Associate degree,No
+35024589,M,Married,Master’s degree,No
+35024590,F,Divorced,Less than high school,No
+35024591,M,Married,Less than high school,No
+35024592,M,Married,Associate degree,No
+35024593,F,Single,Master’s degree,No
+35024594,F,Single,Less than high school,No
+35024595,F,Single,Associate degree,No
+35024596,M,Married,High school diploma or equivalent,No
+35024597,F,Divorced,Doctoral degree,Yes
+35024598,M,Married,Master’s degree,No
+35024599,M,Married,High school diploma or equivalent,No
+35024600,F,Married,High school diploma or equivalent,No
+35024601,F,Married,Associate degree,No
+35024602,M,Divorced,"Some college, no degree",No
+35024603,M,Married,"Some college, no degree",No
+35024604,M,Divorced,High school diploma or equivalent,No
+35024605,F,Divorced,Doctoral degree,Yes
+35024606,F,Married,Associate degree,No
+35024607,M,Married,Master’s degree,No
+35024608,M,Divorced,Associate degree,No
+35024609,F,Single,Doctoral degree,No
+35024610,M,Separated,Doctoral degree,No
+35024611,M,Married,Less than high school,No
+35024612,F,Married,Bachelor’s degree,No
+35024613,F,Separated,Bachelor’s degree,Yes
+35024614,F,Single,Bachelor’s degree,Yes
+35024615,F,Divorced,Doctoral degree,No
+35024616,M,Divorced,Less than high school,No
+35024617,M,Single,High school diploma or equivalent,No
+35024618,M,Single,"Some college, no degree",No
+35024619,F,Divorced,High school diploma or equivalent,Yes
+35024620,M,Single,Less than high school,No
+35024621,M,Married,Doctoral degree,No
+35024622,F,Widowed,Master’s degree,Yes
+35024623,M,Married,Associate degree,No
+35024624,M,Divorced,Associate degree,No
+35024625,F,Divorced,Doctoral degree,Yes
+35024626,F,Single,Master’s degree,No
+35024627,M,Married,"Some college, no degree",No
+35024628,F,Married,Doctoral degree,No
+35024629,M,Married,"Some college, no degree",No
+35024630,F,Married,Associate degree,Yes
+35024631,F,Single,Doctoral degree,Yes
+35024632,M,Married,Doctoral degree,No
+35024633,M,Single,High school diploma or equivalent,No
+35024634,M,Single,Doctoral degree,No
+35024635,F,Single,High school diploma or equivalent,Yes
+35024636,M,Married,Doctoral degree,No
+35024637,M,Separated,Doctoral degree,No
+35024638,F,Divorced,High school diploma or equivalent,Yes
+35024639,F,Divorced,High school diploma or equivalent,No
+35024640,M,Single,"Some college, no degree",No
+35024641,M,Separated,Doctoral degree,No
+35024642,F,Divorced,Master’s degree,No
+35024643,F,Separated,"Some college, no degree",No
+35024644,F,Married,Doctoral degree,No
+35024645,M,Separated,Bachelor’s degree,No
+35024646,F,Widowed,High school diploma or equivalent,Yes
+35024647,M,Married,High school diploma or equivalent,No
+35024648,F,Married,High school diploma or equivalent,No
+35024649,M,Divorced,Master’s degree,No
+35024650,M,Divorced,Bachelor’s degree,No
+35024651,M,Married,Bachelor’s degree,No
+35024652,F,Divorced,Master’s degree,No
+35024653,F,Single,High school diploma or equivalent,No
+35024654,M,Married,Master’s degree,No
+35024655,F,Divorced,High school diploma or equivalent,No
+35024656,F,Single,Less than high school,Yes
+35024657,M,Married,Doctoral degree,No
+35024658,F,Married,Doctoral degree,Yes
+35024659,F,Divorced,"Some college, no degree",No
+35024660,F,Married,"Some college, no degree",No
+35024661,M,Married,Master’s degree,No
+35024662,M,Married,Master’s degree,No
+35024663,M,Married,Master’s degree,No
+35024664,F,Married,Master’s degree,Yes
+35024665,M,Separated,"Some college, no degree",No
+35024666,M,Married,Master’s degree,No
+35024667,M,Single,"Some college, no degree",No
+35024668,F,Divorced,Doctoral degree,No
+35024669,F,Married,"Some college, no degree",No
+35024670,M,Divorced,"Some college, no degree",No
+35024671,F,Married,Master’s degree,No
+35024672,M,Single,Doctoral degree,No
+35024673,F,Married,Bachelor’s degree,Yes
+35024674,M,Divorced,Associate degree,No
+35024675,M,Single,Less than high school,No
+35024676,M,Single,Bachelor’s degree,No
+35024677,M,Divorced,Doctoral degree,No
+35024678,F,Married,High school diploma or equivalent,No
+35024679,F,Divorced,Less than high school,No
+35024680,M,Separated,Doctoral degree,No
+35024681,M,Divorced,Less than high school,No
+35024682,F,Divorced,High school diploma or equivalent,Yes
+35024683,F,Separated,Associate degree,No
+35024684,M,Single,Associate degree,No
+35024685,F,Married,"Some college, no degree",No
+35024686,F,Married,Doctoral degree,No
+35024687,M,Widowed,High school diploma or equivalent,No
+35024688,F,Divorced,"Some college, no degree",No
+35024689,F,Married,Doctoral degree,No
+35024690,F,Single,Doctoral degree,Yes
+35024691,M,Divorced,Less than high school,No
+35024692,M,Married,Less than high school,No
+35024693,M,Married,Doctoral degree,No
+35024694,F,Separated,Doctoral degree,Yes
+35024695,F,Married,Bachelor’s degree,No
+35024696,M,Separated,Associate degree,No
+35024697,M,Married,High school diploma or equivalent,No
+35024698,F,Separated,Master’s degree,No
+35024699,F,Married,Associate degree,No
+35024700,M,Married,High school diploma or equivalent,No
+35024701,M,Single,High school diploma or equivalent,No
+35024702,M,Married,Master’s degree,No
+35024703,M,Divorced,Master’s degree,No
+35024704,F,Married,"Some college, no degree",No
+35024705,F,Married,High school diploma or equivalent,No
+35024706,M,Married,Master’s degree,No
+35024707,M,Divorced,Associate degree,No
+35024708,F,Widowed,Associate degree,Yes
+35024709,F,Divorced,Associate degree,No
+35024710,M,Married,Doctoral degree,No
+35024711,F,Married,Bachelor’s degree,No
+35024712,M,Married,Master’s degree,No
+35024713,F,Married,Less than high school,Yes
+35024714,M,Married,High school diploma or equivalent,No
+35024715,F,Divorced,Doctoral degree,No
+35024716,F,Married,High school diploma or equivalent,Yes
+35024717,M,Single,High school diploma or equivalent,No
+35024718,M,Married,Less than high school,No
+35024719,M,Married,Doctoral degree,No
+35024720,M,Married,High school diploma or equivalent,No
+35024721,F,Divorced,Doctoral degree,No
+35024722,M,Divorced,"Some college, no degree",No
+35024723,F,Married,Bachelor’s degree,Yes
+35024724,M,Divorced,"Some college, no degree",No
+35024725,F,Divorced,Bachelor’s degree,Yes
+35024726,M,Married,Doctoral degree,No
+35024727,F,Divorced,Master’s degree,No
+35024728,M,Single,Associate degree,No
+35024729,F,Divorced,Associate degree,No
+35024730,F,Divorced,Less than high school,No
+35024731,M,Married,Less than high school,No
+35024732,F,Single,Less than high school,No
+35024733,M,Divorced,Associate degree,No
+35024734,F,Single,High school diploma or equivalent,Yes
+35024735,F,Single,Master’s degree,No
+35024736,M,Single,High school diploma or equivalent,No
+35024737,M,Divorced,High school diploma or equivalent,No
+35024738,M,Single,Doctoral degree,No
+35024739,F,Separated,Less than high school,No
+35024740,F,Divorced,Bachelor’s degree,No
+35024741,F,Divorced,High school diploma or equivalent,No
+35024742,F,Divorced,Less than high school,No
+35024743,F,Divorced,Doctoral degree,No
+35024744,M,Divorced,"Some college, no degree",No
+35024745,M,Divorced,Less than high school,No
+35024746,F,Married,Doctoral degree,No
+35024747,M,Divorced,Doctoral degree,No
+35024748,F,Divorced,Doctoral degree,No
+35024749,M,Married,Bachelor’s degree,No
+35024750,M,Married,Less than high school,No
+35024751,M,Divorced,Master’s degree,No
+35024752,M,Separated,Doctoral degree,No
+35024753,F,Married,Doctoral degree,No
+35024754,M,Married,Less than high school,No
+35024755,M,Married,Associate degree,No
+35024756,M,Single,Less than high school,No
+35024757,F,Married,Bachelor’s degree,No
+35024758,F,Divorced,Doctoral degree,No
+35024759,M,Married,"Some college, no degree",No
+35024760,F,Single,Associate degree,Yes
+35024761,M,Single,Bachelor’s degree,No
+35024762,F,Divorced,Bachelor’s degree,Yes
+35024763,F,Single,"Some college, no degree",No
+35024764,M,Separated,Master’s degree,No
+35024765,M,Single,Bachelor’s degree,No
+35024766,M,Divorced,Master’s degree,No
+35024767,M,Widowed,Associate degree,No
+35024768,M,Married,Bachelor’s degree,No
+35024769,F,Married,High school diploma or equivalent,No
+35024770,F,Divorced,High school diploma or equivalent,No
+35024771,F,Married,Less than high school,Yes
+35024772,F,Separated,Doctoral degree,No
+35024773,M,Married,"Some college, no degree",No
+35024774,F,Divorced,Bachelor’s degree,No
+35024775,M,Married,Master’s degree,No
+35024776,F,Divorced,Associate degree,Yes
+35024777,M,Married,Less than high school,No
+35024778,F,Single,Less than high school,Yes
+35024779,M,Separated,Bachelor’s degree,No
+35024780,F,Married,Associate degree,No
+35024781,M,Divorced,"Some college, no degree",No
+35024782,M,Married,Less than high school,No
+35024783,F,Married,"Some college, no degree",No
+35024784,F,Divorced,Bachelor’s degree,Yes
+35024785,F,Divorced,Doctoral degree,No
+35024786,M,Divorced,High school diploma or equivalent,No
+35024787,F,Single,Bachelor’s degree,No
+35024788,F,Married,Associate degree,Yes
+35024789,F,Married,Master’s degree,No
+35024790,F,Married,Associate degree,No
+35024791,M,Married,Associate degree,No
+35024792,M,Married,Doctoral degree,No
+35024793,M,Married,High school diploma or equivalent,No
+35024794,F,Married,Bachelor’s degree,Yes
+35024795,M,Married,Bachelor’s degree,No
+35024796,F,Married,Master’s degree,No
+35024797,M,Divorced,Associate degree,No
+35024798,F,Divorced,Less than high school,No
+35024799,F,Married,"Some college, no degree",No
+35024800,F,Separated,"Some college, no degree",No
+35024801,F,Divorced,Less than high school,Yes
+35024802,M,Divorced,Master’s degree,No
+35024803,M,Married,Bachelor’s degree,No
+35024804,M,Divorced,Master’s degree,No
+35024805,M,Divorced,"Some college, no degree",No
+35024806,F,Single,"Some college, no degree",No
+35024807,F,Married,Less than high school,No
+35024808,M,Separated,"Some college, no degree",No
+35024809,F,Single,Master’s degree,Yes
+35024810,F,Married,High school diploma or equivalent,No
+35024811,F,Single,High school diploma or equivalent,No
+35024812,M,Separated,Doctoral degree,No
+35024813,F,Single,Less than high school,No
+35024814,F,Divorced,Doctoral degree,No
+35024815,M,Divorced,Less than high school,No
+35024816,M,Married,Doctoral degree,No
+35024817,M,Divorced,Less than high school,No
+35024818,M,Married,High school diploma or equivalent,No
+35024819,F,Married,Associate degree,Yes
+35024820,F,Married,Bachelor’s degree,No
+35024821,M,Married,Doctoral degree,No
+35024822,F,Married,Doctoral degree,Yes
+35024823,F,Married,Bachelor’s degree,No
+35024824,M,Single,Master’s degree,No
+35024825,F,Divorced,"Some college, no degree",No
+35024826,F,Married,Associate degree,No
+35024827,F,Single,"Some college, no degree",No
+35024828,F,Married,Master’s degree,No
+35024829,M,Divorced,High school diploma or equivalent,No
+35024830,M,Divorced,Bachelor’s degree,No
+35024831,M,Widowed,Doctoral degree,No
+35024832,F,Married,Bachelor’s degree,No
+35024833,F,Single,Doctoral degree,No
+35024834,M,Divorced,"Some college, no degree",No
+35024835,F,Single,High school diploma or equivalent,No
+35024836,M,Married,High school diploma or equivalent,No
+35024837,M,Married,Doctoral degree,No
+35024838,F,Single,Bachelor’s degree,No
+35024839,F,Single,High school diploma or equivalent,No
+35024840,F,Divorced,Doctoral degree,No
+35024841,F,Married,Bachelor’s degree,No
+35024842,F,Divorced,Master’s degree,No
+35024843,F,Married,Bachelor’s degree,No
+35024844,M,Married,High school diploma or equivalent,No
+35024845,F,Married,High school diploma or equivalent,Yes
+35024846,M,Married,Less than high school,No
+35024847,M,Married,"Some college, no degree",No
+35024848,M,Separated,Less than high school,No
+35024849,F,Separated,Doctoral degree,No
+35024850,M,Married,High school diploma or equivalent,No
+35024851,M,Married,Doctoral degree,No
+35024852,M,Separated,High school diploma or equivalent,No
+35024853,M,Married,Less than high school,No
+35024854,M,Divorced,Less than high school,No
+35024855,M,Single,"Some college, no degree",No
+35024856,M,Single,High school diploma or equivalent,No
+35024857,M,Separated,Bachelor’s degree,No
+35024858,M,Married,Less than high school,No
+35024859,F,Married,Less than high school,Yes
+35024860,M,Married,"Some college, no degree",No
+35024861,M,Married,Master’s degree,No
+35024862,M,Single,Doctoral degree,No
+35024863,M,Divorced,Doctoral degree,No
+35024864,F,Married,High school diploma or equivalent,Yes
+35024865,M,Married,"Some college, no degree",No
+35024866,M,Separated,Bachelor’s degree,No
+35024867,M,Divorced,Master’s degree,No
+35024868,F,Married,High school diploma or equivalent,No
+35024869,M,Married,Master’s degree,No
+35024870,F,Married,Associate degree,No
+35024871,M,Married,Bachelor’s degree,No
+35024872,M,Divorced,Doctoral degree,No
+35024873,F,Married,"Some college, no degree",No
+35024874,F,Married,Bachelor’s degree,Yes
+35024875,F,Single,High school diploma or equivalent,No
+35024876,M,Single,Master’s degree,No
+35024877,F,Single,Master’s degree,No
+35024878,M,Single,Doctoral degree,No
+35024879,F,Single,Bachelor’s degree,Yes
+35024880,M,Separated,Associate degree,No
+35024881,M,Divorced,Bachelor’s degree,No
+35024882,F,Divorced,Doctoral degree,Yes
+35024883,F,Widowed,High school diploma or equivalent,No
+35024884,F,Divorced,"Some college, no degree",No
+35024885,F,Divorced,High school diploma or equivalent,No
+35024886,F,Married,Doctoral degree,No
+35024887,F,Single,High school diploma or equivalent,No
+35024888,F,Separated,Associate degree,No
+35024889,F,Divorced,Bachelor’s degree,Yes
+35024890,F,Married,Doctoral degree,No
+35024891,M,Divorced,Less than high school,No
+35024892,M,Divorced,"Some college, no degree",No
+35024893,F,Divorced,Less than high school,No
+35024894,M,Single,Bachelor’s degree,No
+35024895,F,Divorced,High school diploma or equivalent,No
+35024896,F,Single,High school diploma or equivalent,No
+35024897,F,Married,Less than high school,No
+35024898,M,Single,Associate degree,No
+35024899,F,Married,Less than high school,Yes
